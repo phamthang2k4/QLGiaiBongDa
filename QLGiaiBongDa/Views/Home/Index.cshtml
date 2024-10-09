@@ -1,8 +1,33 @@
-﻿@{
+﻿@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<dynamic>
+@{
     ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutLaptop.cshtml";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+@foreach(var item in Model)
+{
+    <div class="col l-3 m-m-b-20 c-12" >
+        <div class="place__item">
+            <div class="place__bg">
+                <img src="@Url.Content("../BongDa/images/" + @item.Anh + ".jpg")" style="height: 145px" alt="" class="place__img">
+            </div>
+            <div class="place__info" style="padding: 0; text-align:center ">
+                <header class="place__header">
+                    <h3 class="place__heading">@item.ClbNha<br />  <strong>@item.KetQua</strong>  <br />@item.ClbKhach</h3>
+                    <p class="place__location">
+                        <i class="ri-map-pin-line"></i> @item.NgayThiDau
+                    </p>
+                </header>
+                
+                <footer class="place__footer">
+                    <a href="" class="place__btn bg__color--berlin">Chi tiết</a>
+                </footer>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
 </div>
