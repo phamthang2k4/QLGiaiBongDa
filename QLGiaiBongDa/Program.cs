@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using QLGiaiBongDa.Repository;
+using QLGiaiBongDa.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var connectionSrting = builder.Configuration.GetConnectionString("QlgiaiBongDaContext");
+builder.Services.AddDbContext<QlgiaiBongDaContext>(x => x.UseSqlServer(connectionSrting));
+builder.Services.AddScoped<ILoaiClbRepository, LoaiClbRepository>();
 
 var app = builder.Build();
 

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\repository\\iloaiclbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\repository\\iloaiclbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\repository\\loaiclbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\repository\\loaiclbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\views\\shared\\_layoutlaptop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\views\\shared\\_layoutlaptop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Models\\QlgiaiBongDaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLGiaiBongDa\\Models\\QlgiaiBongDaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\views\\shared\\_layoutlaptop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\views\\shared\\_layoutlaptop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\views\\shared\\components\\loaiclbmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\views\\shared\\components\\loaiclbmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\viewcomponents\\loaiclbmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\viewcomponents\\loaiclbmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|d:\\workspace\\asp.net mvc\\qlgiaibongda\\qlgiaibongda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8664BC73-F8D5-4FED-932C-001C8D271034}|QLGiaiBongDa\\QLGiaiBongDa.csproj|solutionrelative:qlgiaibongda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +50,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Views\\Shared\\Components\\LoaiClbMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "QLGiaiBongDa\\Views\\Shared\\Components\\LoaiClbMenu\\Default.cshtml",
+              "ToolTip": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Views\\Shared\\Components\\LoaiClbMenu\\Default.cshtml",
+              "RelativeToolTip": "QLGiaiBongDa\\Views\\Shared\\Components\\LoaiClbMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T17:23:49.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaiClbMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\ViewComponents\\LoaiClbMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "QLGiaiBongDa\\ViewComponents\\LoaiClbMenuViewComponent.cs",
+              "ToolTip": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\ViewComponents\\LoaiClbMenuViewComponent.cs",
+              "RelativeToolTip": "QLGiaiBongDa\\ViewComponents\\LoaiClbMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:16:12.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoaiClbRepository.cs",
+              "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Repository\\LoaiClbRepository.cs",
+              "RelativeDocumentMoniker": "QLGiaiBongDa\\Repository\\LoaiClbRepository.cs",
+              "ToolTip": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Repository\\LoaiClbRepository.cs",
+              "RelativeToolTip": "QLGiaiBongDa\\Repository\\LoaiClbRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:07:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILoaiClbRepository.cs",
+              "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Repository\\ILoaiClbRepository.cs",
+              "RelativeDocumentMoniker": "QLGiaiBongDa\\Repository\\ILoaiClbRepository.cs",
+              "ToolTip": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Repository\\ILoaiClbRepository.cs",
+              "RelativeToolTip": "QLGiaiBongDa\\Repository\\ILoaiClbRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:04:27.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Program.cs",
+              "RelativeDocumentMoniker": "QLGiaiBongDa\\Program.cs",
+              "ToolTip": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Program.cs",
+              "RelativeToolTip": "QLGiaiBongDa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:56:42.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "QLGiaiBongDa\\Controllers\\HomeController.cs",
@@ -47,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "QLGiaiBongDa\\Views\\Home\\Index.cshtml",
@@ -61,25 +142,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "QlgiaiBongDaContext.cs",
-              "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Models\\QlgiaiBongDaContext.cs",
-              "RelativeDocumentMoniker": "QLGiaiBongDa\\Models\\QlgiaiBongDaContext.cs",
-              "ToolTip": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Models\\QlgiaiBongDaContext.cs",
-              "RelativeToolTip": "QLGiaiBongDa\\Models\\QlgiaiBongDaContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T15:34:42.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "_LayoutLaptop.cshtml",
               "DocumentMoniker": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Views\\Shared\\_LayoutLaptop.cshtml",
               "RelativeDocumentMoniker": "QLGiaiBongDa\\Views\\Shared\\_LayoutLaptop.cshtml",
               "ToolTip": "D:\\Workspace\\ASP.NET MVC\\QLGiaiBongDa\\QLGiaiBongDa\\Views\\Shared\\_LayoutLaptop.cshtml",
               "RelativeToolTip": "QLGiaiBongDa\\Views\\Shared\\_LayoutLaptop.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-09T15:26:54.789Z",
               "EditorCaption": ""
