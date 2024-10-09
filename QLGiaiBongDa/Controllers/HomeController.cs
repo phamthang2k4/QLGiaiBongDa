@@ -1,5 +1,6 @@
 using Azure;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using QLGiaiBongDa.Models;
 using System.Diagnostics;
 using X.PagedList;
@@ -36,6 +37,16 @@ namespace QLGiaiBongDa.Controllers
             var pagedList = lstSanPham.ToPagedList(pageNumber, pageSize);
 
             return View(pagedList);
+        }
+
+        public IActionResult SanPhamTheoLoai(String caulacboid, int? page)
+        {
+            int pageSize = 8;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstsanpham = db.Trandaus.AsNoTracking().Where(x => (x.Clbnha == caulacboid || x.Clbkhach == caulacboid) ).OrderBy(x => x.TranDauId);
+            PagedList<Trandau> lst = new PagedList<Trandau>(lstsanpham, pageNumber, pageSize);
+            ViewBag.caulacboid = caulacboid;
+            return View(lst);
         }
 
         public IActionResult Privacy()
