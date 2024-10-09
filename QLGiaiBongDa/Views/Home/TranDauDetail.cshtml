@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "TranDauDetail";
+    Layout = "~/Views/Shared/_LayoutLaptop.cshtml";
+}
+
+@model QLGiaiBongDa.Models.Trandau
+<div class="top-detail-product ">
+    <div class="header-product-detail clearfix">
+        <div class="cont-top-product-detail clearfix">
+            <h1 class="name-product-detail bk-product-name"> @Model.TranDauId</h1>
+            <div class="col-left-detail">
+                <div class="box-img img-detail">
+                    <a href="javascript:void(0)" title="show all image" class="zoom-img-detail startPrettyPhoto"></a>
+                    <img class="bk-product-image" src="@Url.Content("../BongDa/images/" + @Model.Anh + ".jpg")" alt=" ">
+                </div>
+                <div class="utilities clearfix">
+                    <div class="item-utilities">
+                        <div style="display: none">
+                            <a href="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s1000_1000/hp-250-g7-1-1649307275.jpg" class="thumbnail imageitem-a" rel="prettyPhoto[]">
+                                <img src="./Images/lenovo.jpg" alt="hp-250-g7-1-1649307275.jpg">
+                            </a>
+                            <a href="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s1000_1000/hp-250-g7-3-1649307275.jpg" class="thumbnail imageitem-a" rel="prettyPhoto[]">
+                                <img src="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s250_0/hp-250-g7-3-1649307275.jpg" alt="hp-250-g7-3-1649307275.jpg">
+                            </a>
+                            <a href="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s1000_1000/hp-250-g7-2-1649307275.jpg" class="thumbnail imageitem-a" rel="prettyPhoto[]">
+                                <img src="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s250_0/hp-250-g7-2-1649307275.jpg" alt="hp-250-g7-2-1649307275.jpg">
+                            </a>
+                            <a href="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s1000_1000/hp-250-g7-1649307275.jpg" class="thumbnail imageitem-a" rel="prettyPhoto[]">
+                                <img src="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s250_0/hp-250-g7-1649307275.jpg" alt="hp-250-g7-1649307275.jpg">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item-utilities">
+                    </div>
+                    <div class="item-utilities">
+                    </div>
+                </div>
+            </div>
+            <div class="box-info-detail clearfix">
+                <div class="general-information">
+                    <h3 class="place__heading">
+                        @Model.Clbnha<br />
+                        <strong>@Model.KetQua</strong>  <br />@Model.Clbkhach
+                    </h3>
+                    <p class="place__location">
+                        <i class="ri-map-pin-line"></i> @Model.NgayThiDau
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+

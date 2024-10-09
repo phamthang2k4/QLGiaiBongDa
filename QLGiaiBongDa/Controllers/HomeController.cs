@@ -49,6 +49,13 @@ namespace QLGiaiBongDa.Controllers
             return View(lst);
         }
 
+        public IActionResult TranDauDetail(string trandauid)
+        {
+            var sanPham = db.Trandaus.SingleOrDefault(x => x.TranDauId == trandauid);
+            
+            return View(sanPham);
+        }
+
         public IActionResult Privacy()
         {
             return View();
